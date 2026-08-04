@@ -7,7 +7,7 @@ class QuoteGenerator {
             "Dream big, work hard, stay humble.!",
             "Code is like humor. When you have to explain it, it’s bad.!",
             "Success is not final, failure is not fatal: it is the courage to continue that counts.!",
-            "Do something today that your future self will thank you for."
+            "Do something today that your future self will thank you for.!"
         };
 
         Random rand = new Random();
