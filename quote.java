@@ -12,7 +12,6 @@ class QuoteGenerator {
 
         Random rand = new Random();
         int index = rand.nextInt(quotes.length);
-
         System.out.println("✨ Your Quote of the Day ✨");
         System.out.println(quotes[index]);
     }
